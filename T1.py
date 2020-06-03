@@ -4,6 +4,6 @@
 #@File:  .py
 #@Sofeware: PyCharm
 
-print("戢飞")
-..注释一行
+print("Hello Word!")
+#注释一行
 #这是注释
